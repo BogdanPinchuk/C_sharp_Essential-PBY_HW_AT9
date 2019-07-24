@@ -65,7 +65,7 @@ namespace LesApp1
 
             #region Варіант з використанням Extention - методів розширення
 #if true
-            // можна  було б назвати методика "кидок через плече"
+            // можна  було б назвати: методика "кидок через плече"
             return ResDel12(delegate1, delegate2).ExMethodDel12;
 #endif
             #endregion
